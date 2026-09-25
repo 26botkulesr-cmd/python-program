@@ -72,6 +72,25 @@
 
 ![App Screenshot](https://i.ibb.co/QFpvsp0v/Screenshot-2026-09-25-153147.png)
 
+## Simple calculator using 
+
+![App Screenshot](https://i.ibb.co/wNGqKYkL/Screenshot-2026-09-25-154632.png)
+
+## Grade calculator from marks 
+
+![App Screenshot](https://i.ibb.co/9kFqyLr6/Screenshot-2026-09-25-154940.png)
+
+## 
+
+![App Screenshot](https://i.ibb.co/qSxCXtb/Screenshot-2026-09-25-155236.png)
+
+
+
+
+
+
+
+
 
 
 
