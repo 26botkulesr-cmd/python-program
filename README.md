@@ -1,42 +1,42 @@
 # python-program
 
-## 
+## Print name, age, college and branch 
 
 ![App Screenshot](https://i.ibb.co/0pW8dQVt/Screenshot-2026-09-25-141735.png)
 
-## Screenshots
+## Take name as input and greet the user 
 
 ![App Screenshot](https://i.ibb.co/8gbdZvRQ/Screenshot-2026-09-25-142449.png)
 
-## Screenshots
+## Take two numbers and display their sum 
 
 ![App Screenshot](https://i.ibb.co/rfGGS5ZN/Screenshot-2026-09-25-142808.png)
 
-## Screenshots
+## Perform all arithmetic operations on two numbers
 
 ![App Screenshot](https://i.ibb.co/1GGCKJwv/Screenshot-2026-09-25-143652.png)
 
-## Screenshots
+## Calculate area of a circle 
 
 ![App Screenshot](https://i.ibb.co/Nd9P4tmR/Screenshot-2026-09-25-143922.png)
 
-## Screenshots
+## Calculate simple interest
 
 ![App Screenshot](https://i.ibb.co/vxYS5BgV/Screenshot-2026-09-25-144243.png)
 
-## Screenshots
+## Convert Celsius to Fahrenheit 
 
 ![App Screenshot](https://i.ibb.co/fdgzdL0S/Screenshot-2026-09-25-144518.png)
 
-## Screenshots
+##  Calculate total and percentage of 5 subjects
 
 ![App Screenshot](https://i.ibb.co/1YrZs2xx/Screenshot-2026-09-25-144752.png)
 
-## Screenshots
+## Swap two numbers 
 
 ![App Screenshot](https://i.ibb.co/8gXchQdD/Screenshot-2026-09-25-144942.png)
 
-## Screenshots
+## Convert seconds into hours, minutes and seconds 
 
 ![App Screenshot](https://i.ibb.co/JFsFPPN9/Screenshot-2026-09-25-145112.png)
 
