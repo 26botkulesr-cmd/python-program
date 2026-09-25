@@ -8,3 +8,7 @@
 
 ![App Screenshot](https://i.ibb.co/8gbdZvRQ/Screenshot-2026-09-25-142449.png)
 
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/rfGGS5ZN/Screenshot-2026-09-25-142808.png)
+
