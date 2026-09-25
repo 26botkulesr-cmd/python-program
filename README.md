@@ -60,6 +60,20 @@
 
 ![App Screenshot](https://i.ibb.co/Q7JxFmxN/Screenshot-2026-09-25-151643.png)
 
+## Check whether a year is a leap year 
+
+![App Screenshot](https://i.ibb.co/1fyJzGz7/Screenshot-2026-09-25-152501.png)
+
+## Check whether a number is divisible by 5 and 11
+
+![App Screenshot](https://i.ibb.co/kVD2Qw10/Screenshot-2026-09-25-152829.png)
+
+## Check whether a number lies between 10 and 50
+
+![App Screenshot](https://i.ibb.co/QFpvsp0v/Screenshot-2026-09-25-153147.png)
+
+
+
 
 
 
