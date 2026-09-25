@@ -40,6 +40,29 @@
 
 ![App Screenshot](https://i.ibb.co/JFsFPPN9/Screenshot-2026-09-25-145112.png)
 
+## Check whether a number is positive, negative or zero 
+
+![App Screenshot](https://i.ibb.co/LGbzT1M/Screenshot-2026-09-25-150818.png)
+
+## Check whether a number is even or odd 
+
+![App Screenshot](https://i.ibb.co/WpR5FyTj/Screenshot-2026-09-25-151103.png)
+
+## Check whether a person is eligible to vote 
+
+![App Screenshot](https://i.ibb.co/MyJptLdJ/Screenshot-2026-09-25-151317.png)
+
+## Check whether a person is eligible to vote 
+
+![App Screenshot](https://i.ibb.co/mFNsgQJ7/Screenshot-2026-09-25-151508.png)
+
+## Find greatest of three numbers 
+
+![App Screenshot](https://i.ibb.co/Q7JxFmxN/Screenshot-2026-09-25-151643.png)
+
+
+
+
 
 
 
