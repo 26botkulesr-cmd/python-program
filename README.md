@@ -78,13 +78,121 @@
 ![App Screenshot](https://i.ibb.co/7JdvStTR/Screenshot-2026-09-28-100905.png)
 
 
-## Grade calculator from marks 
-
-![App Screenshot](https://i.ibb.co/9kFqyLr6/Screenshot-2026-09-25-154940.png)
-
-## 
+## Grade calculator from marks
 
 ![App Screenshot](https://i.ibb.co/qSxCXtb/Screenshot-2026-09-25-155236.png)
+
+
+## Print numbers 1–10
+
+![App Screenshot](https://i.ibb.co/W43SSLXQ/Screenshot-2026-09-28-101345.png)
+
+## Print numbers 10–1 
+
+![App Screenshot](https://i.ibb.co/5W6XKZDb/Screenshot-2026-09-28-101548.png)
+
+## Print even numbers 1–100
+
+![App Screenshot](https://i.ibb.co/VYvd4JQn/Screenshot-2026-09-28-101911.png)
+
+## Print odd numbers 1–100 
+
+![App Screenshot](https://i.ibb.co/nsnPMqqT/Screenshot-2026-09-28-102220.png)
+
+## Print multiples of 5
+
+![App Screenshot](https://i.ibb.co/N6MTBQjH/Screenshot-2026-09-28-102613.png)
+
+## Print multiplication table
+
+![App Screenshot](https://i.ibb.co/tMPmLNGb/Screenshot-2026-09-28-103238.png)
+
+## Sum numbers 1–10 
+
+![App Screenshot](https://i.ibb.co/1YzCPssf/Screenshot-2026-09-28-103448.png )
+
+## Sum numbers 1–N 
+
+![App Screenshot](https://i.ibb.co/LDzWsSP8/Screenshot-2026-09-28-103755.png)
+
+## Find factorial of N
+
+![App Screenshot](https://i.ibb.co/GvQcrLbW/Screenshot-2026-09-28-104014.png)
+
+## Count from 1 to N
+
+![App Screenshot](https://i.ibb.co/6JvZKj7g/Screenshot-2026-09-28-104229.png)
+
+## Count even numbers from 1–N
+
+![App Screenshot](https://i.ibb.co/VYrm5VYr/Screenshot-2026-09-28-104620.png)
+
+## Count odd numbers from 1–N
+
+![App Screenshot](https://i.ibb.co/Wpp52brw/Screenshot-2026-09-28-104906.png)
+
+## Sum even numbers
+
+![App Screenshot](https://i.ibb.co/4Zr3QTPz/Screenshot-2026-09-28-105204.png)
+
+## Sum odd numbers
+
+![App Screenshot](https://i.ibb.co/zhs5BdNg/Screenshot-2026-09-28-105540.png)
+
+## Find largest number from 1–N
+
+![App Screenshot](https://i.ibb.co/gbhWqVbD/Screenshot-2026-09-28-110456.png)
+
+## Find smallest number from 1–N
+
+![App Screenshot](https://i.ibb.co/1jzLpbK/Screenshot-2026-09-28-111122.png)
+
+## Count numbers divisible by 3
+
+![App Screenshot](https://i.ibb.co/rK9tdgJ5/Screenshot-2026-09-28-111508.png)
+
+
+## Print factors of a number
+
+![App Screenshot](https://i.ibb.co/LdpdYxG2/Screenshot-2026-09-28-111744.png)
+
+## Check whether a number is prime
+
+![App Screenshot](https://i.ibb.co/8LJp6gPK/Screenshot-2026-09-28-112036.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
