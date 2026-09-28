@@ -72,9 +72,11 @@
 
 ![App Screenshot](https://i.ibb.co/QFpvsp0v/Screenshot-2026-09-25-153147.png)
 
-## Simple calculator using 
+## Simple calculator using if/else
 
-![App Screenshot](https://i.ibb.co/wNGqKYkL/Screenshot-2026-09-25-154632.png)
+
+![App Screenshot](https://i.ibb.co/7JdvStTR/Screenshot-2026-09-28-100905.png)
+
 
 ## Grade calculator from marks 
 
