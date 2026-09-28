@@ -160,6 +160,12 @@
 
 ![App Screenshot](https://i.ibb.co/8LJp6gPK/Screenshot-2026-09-28-112036.png)
 
+## Print prime numbers from 1–N
+
+![App Screenshot](https://i.ibb.co/5PXKxJb/Screenshot-2026-09-28-112925.png)
+
+
+
 
 
 
