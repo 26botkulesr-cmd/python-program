@@ -180,7 +180,29 @@
 
 ![App Screenshot](https://i.ibb.co/5XHYrMDX/Screenshot-2026-09-28-115405.png)
 
+## Square pattern
 
+![App Screenshot](https://i.ibb.co/PvzwYPrJ/Screenshot-2026-09-28-122421.png)
+
+## Hollow square
+
+![App Screenshot](https://i.ibb.co/chbdz5Vx/Screenshot-2026-09-28-122749.png)
+
+## Right-aligned triangle
+
+![App Screenshot](https://i.ibb.co/wNY8ZznW/Screenshot-2026-09-28-125127.png)
+
+## Pyramid
+
+![App Screenshot](https://i.ibb.co/gF9H8RJC/Screenshot-2026-09-28-125357.png)
+
+## Inverted pyramid
+
+![App Screenshot](https://i.ibb.co/JWgn8b8J/Screenshot-2026-09-28-125556.png)
+
+## Number pyramid
+
+![App Screenshot](https://i.ibb.co/XZnkx8PZ/Screenshot-2026-09-28-125757.png)
 
 
 
